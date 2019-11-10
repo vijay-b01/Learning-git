@@ -4,3 +4,5 @@ Shopping List
 2. Pepper
 3. Powder
 4. Salt
+5. Oil
+6. Potatoes
