@@ -3,6 +3,7 @@ Shopping List
 1. Sugar
 2. Pepper
 3. Powder
-4. Salt
+4. Salts
 5. Oil
 6. Potatoes
+7. Bananas
