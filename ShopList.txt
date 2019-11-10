@@ -1,4 +1,6 @@
 Shopping List
 
 1. Sugar
-2. Salt
+2. Pepper
+3. Powder
+4. Salt
